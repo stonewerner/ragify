@@ -1,0 +1,1 @@
+- change chatgpt chat app to connect to our ipynb backend instead of openai
